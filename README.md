@@ -1,5 +1,5 @@
 # Hello, World!
-I'm Ben Grelk, a college freshman in Software Engineering.
+I'm Ben Grelk, a college freshman in Software Engineering at the University of Nebraska-Lincoln!
 
 ## Interests
 Ih the programming world, I like web development, both frontend and backend. I'm also dedicated to creating a more accessible digital world. Outside of development,
@@ -10,4 +10,4 @@ I'm active on [Python Discord](https://discord.com/invite/python) (under an alia
 I also enjoy [Advent of Code](https://adventofcode.com).
 
 ## Contact
-You can reach me at my email, ben@grelk.tech.
+You can reach me at my email, ben.grelk@gmail.com
